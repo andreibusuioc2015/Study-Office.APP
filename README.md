@@ -53,5 +53,4 @@ Synthetic students resampled from the UCI dataset
 [Predict students' dropout and academic success](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 (CC BY 4.0), provided through the AAU course repository.
 
-Group assignment for the MSc in Business Data Science, Aalborg University (2026), by
-_add team members here_.
+ assignment for the MSc in Business Data Science, Aalborg University (2026)
